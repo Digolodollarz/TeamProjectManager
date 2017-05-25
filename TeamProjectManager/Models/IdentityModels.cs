@@ -22,7 +22,6 @@ namespace TeamProjectManager.Models
             return userIdentity;
         }
 
-
     }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
